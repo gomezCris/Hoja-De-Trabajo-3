@@ -1,0 +1,4 @@
+Grande	80	72	8
+Familiar	115	97.75	17.25
+Familiar	115	97.75	17.25
+Fiesta	80	64	16

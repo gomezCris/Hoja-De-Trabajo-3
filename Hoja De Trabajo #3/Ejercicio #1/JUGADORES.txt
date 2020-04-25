@@ -1,0 +1,4 @@
+Cristian	Coronado	25	Guatemalteco	5200
+Anderson	Coronado	18	Guatemalteco	3250
+Anthony	Avila	26	Extranjero	4700
+Karol	Lopez	20	Guatemalteco	2650
